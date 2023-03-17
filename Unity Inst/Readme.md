@@ -4,5 +4,3 @@ First, I went to https://unity.com/download to download & install Unity hub.
  ![hola](unityinstallation.png)
  Unity hub also lets you manage your projects. For this prject, I created a 3D core(URP) project on the hub.
  ![hola](create3dproject.png)
-
-Describe every step in the installation with pics (screen shots)
