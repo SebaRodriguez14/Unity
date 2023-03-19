@@ -4,3 +4,5 @@ After that, I added a cube and turned it into a ball and add physics. Then I add
 ![hola](rampandball.png)
 Then I started adding some basic enemies using a capsule and a streched cube as it's weapon and then created another flying enemy with a jetpack and turn off tis gravity.
 ![hola](enemyeditor.png)
+After dealing with the enemies, I added a terrain and changed its size, added some slopes and mountains and made it smoother.
+![hola](mount.png) ((add mountains screenshot))
