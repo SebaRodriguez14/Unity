@@ -8,4 +8,4 @@ After dealing with the enemies, I added a terrain and changed its size, added so
 ![hola](mount.png) ((add mountains screenshot))
 Then it was time to give some life to the enviroment by adding textures to the floor and the mountains! It was simple, I just had to go to the interent and searched up some grass and dirt textures and downloaded it into my computer and imported them into the Unity file explorer. I added the grass texture so everything was grass.
 ![hola](grasstexture.png)
-With the dirt texture I use the brush and painted the mountain with some dirt and added a little but of grass to make it look realistic. It turned out to look great! 
+With the dirt texture I use the brush and painted the mountain with some dirt and added a little but of grass to make it look realistic. It turned out to look great! .
