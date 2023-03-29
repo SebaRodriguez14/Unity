@@ -5,7 +5,7 @@ After that, I added a cube and turned it into a ball and add physics. Then I add
 Then I started adding some basic enemies using a capsule and a streched cube as it's weapon and then created another flying enemy with a jetpack and turn off tis gravity.
 ![hola](enemyeditor.png)
 After dealing with the enemies, I added a terrain and changed its size, added some slopes and mountains and made it smoother.
-![hola](mount.png) ((add mountains screenshot))
+![hola](mount.png) 
 Then it was time to give some life to the enviroment by adding textures to the floor and the mountains! It was simple, I just had to go to the interent and searched up some grass and dirt textures and downloaded it into my computer and imported them into the Unity file explorer. I added the grass texture so everything was grass.
 ![hola](grasstexture.png)
 With the dirt texture I use the brush and painted some of the ground and the mountains with some dirt and added a little but of grass to make it look realistic. It turned out to look great!
