@@ -12,6 +12,7 @@ With the dirt texture I use the brush and painted some of the ground and the mou
 ![hola](dirttexture.png)
 Now it is time for some action! It was time to go to Unity Asset store to download a pack (for this specific example I will be using the Sci-Fi Styled Modular Pack) for simplisity, I will put the link directly to the assest: https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913 
 ![hola](scifiassetpack.png)
-When you open the asset, it will ask you to open Unity and it will take you directly into the package manager and then download the assest in Unity.After downloading, the sci-fi asset files like 3D models and textures should appear in your file explorer under the Project tab in the bottom screen in unity. 
+When you open the asset, it will ask you to open Unity and it will take you directly into the package manager and then download the assest in Unity.After downloading, the sci-fi asset files like 3D models and textures should appear in your file explorer under the Project tab in the bottom screen in unity. Now you can add things like robots in your scene in your Unity project! 
 ![hola](packagemanager.png)
 ![hola](scifipackfiles.png)
+![hola](scifirobots.png)
