@@ -10,3 +10,4 @@ Then it was time to give some life to the enviroment by adding textures to the f
 ![hola](grasstexture.png)
 With the dirt texture I use the brush and painted some of the ground and the mountains with some dirt and added a little but of grass to make it look realistic. It turned out to look great!
 ![hola](dirttexture.png)
+Now it is time for some action! It was time to go to Unity Asset store to download a pack (for this specific example I will be using the Sci-Fi Styled Modular Pack) for simplisity, I will put the link directly to the assest: https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913 ![hola](scifiassetpack.png)
